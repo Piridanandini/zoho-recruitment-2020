@@ -1,0 +1,16 @@
+//python program for string slicing for given input
+//input - WATER
+
+
+string = "WATER"
+str1 = "WATER"[2:3]
+str2 = "WATER"[2:4]
+str3 = "WATER"[2:]
+str4 = "WATER"[2:] 
+str5 = "WATER"[2:] 
+print(str1)
+print(str2)
+print(str3)
+print(str4 + string[0])
+print(str5 + string[0] + string[1])
+
